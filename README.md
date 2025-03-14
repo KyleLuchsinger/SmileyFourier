@@ -27,8 +27,8 @@ This project creates an animated visualization of a smiley face using Fourier se
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/fourier-smiley.git
-cd fourier-smiley
+git clone https://github.com/KyleLuchsinger/SmileyFourier.git
+cd SmileyFourier
 pip install numpy matplotlib scipy tqdm
 ```
 
@@ -37,7 +37,7 @@ pip install numpy matplotlib scipy tqdm
 Run the main script to generate the animation:
 
 ```bash
-python fourier_smiley.py
+python SF.py
 ```
 
 The script will:
