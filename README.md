@@ -1,6 +1,6 @@
 # Fourier Series Smiley Face Animation
 
-![Fourier Series Smiley Face Animation](./src/smiley_fourier.gif)
+<img src="./src/smiley_fourier.gif" alt="Fourier Series Smiley Face Animation" width="400" />
 
 ## Overview
 
