@@ -28,7 +28,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/KyleLuchsinger/SmileyFourier.git
-cd SmileyFourier
+cd SmileyFourier/src
 pip install numpy matplotlib scipy tqdm
 ```
 
